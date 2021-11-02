@@ -1,10 +1,10 @@
-VideoJuego basado en el popular juego de mesa Conecta 4
-Realizado para el modulo de python de Bedu
-Proyecto obtenido de tutoriales de FreeCodeCamp
-12-sep-2021
+### VideoJuego basado en el popular juego de mesa Conecta 4
+### Realizado para el modulo de python de Bedu
+### Proyecto obtenido de tutoriales de FreeCodeCamp
+#### 12-sep-2021
 
 //////////////
-Mejoras a realizar:
+## Mejoras a realizar:
 
 1- No hay una función principal, así que el código final se ve un poco desorganizado, si quedara dentro de una función principal podría tener un poco más de orden.
 
